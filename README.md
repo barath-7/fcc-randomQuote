@@ -4,4 +4,4 @@
 - ReactJS for frontend
 - Bootstrap and CSS for styling
 
-[^1] Special thanks to the free api providers
+#### Special thanks to the free api providers
