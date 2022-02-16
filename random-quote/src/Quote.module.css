@@ -1,0 +1,37 @@
+.quote {
+  margin: 1rem;
+  padding: 1rem;
+  background-color: #414141;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  border-radius: 12px;
+  text-align: center;
+  color: white;
+  
+}
+
+.quote h2 {
+  font-size: 2rem;
+  color: #0000;
+}
+
+.quote h3 {
+  color: #eccf77;
+  margin: 0;
+  font-size: 1rem;
+}
+
+#quote-box {
+  align-items: center;
+}
+
+#text {
+  align-items: center;
+}
+
+#new-quote {
+  align-items: center;
+}
+
+#author {
+  align-items: center;
+}
