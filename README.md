@@ -4,4 +4,7 @@
 - ReactJS for frontend
 - Bootstrap and CSS for styling
 
+### [Live Project URL](https://compassionate-darwin-f8c86b.netlify.app/)
+
+
 #### Special thanks to the free api providers
